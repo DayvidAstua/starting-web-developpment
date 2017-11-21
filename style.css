@@ -1,0 +1,40 @@
+html{
+  background-color: lightgrey;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
+
+.card{
+background: white;
+margin-left: 25%;
+margin-right: 25%;
+width: 700px;
+box-shadow:1.5px 3px rgba(0,0,0,0.4);
+border-radius: 10px;
+}
+
+.avatar{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 10px solid #cfcfcf;
+
+}
+
+p{
+  color: grey;
+}
+
+h2{
+  color: grey;
+  text-align: center;
+}
+
+.icons{
+  opacity: 0.5;
+    filter: alpha(opacity=50);
+}
